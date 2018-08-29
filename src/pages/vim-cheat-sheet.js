@@ -101,8 +101,8 @@ export default class VimCheatSheet extends React.Component {
           <li><b>H/J/K/L</b>: resize pane in different directions</li>
           <li><b>{'{ and }'}</b>: switch panes</li>
           <li><b>[</b>: enter scroll mode</li>
-          <li><b>q: qu</b>: enit scroll mode</li>
-          <li><b>z: to</b>: enggle making pane fullscreen</li>
+          <li><b>q</b>: quit scroll mode</li>
+          <li><b>z</b>: toggle making pane fullscreen</li>
         </ul>
       </div>
     )
