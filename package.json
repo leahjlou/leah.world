@@ -25,9 +25,6 @@
     "lodash": "^4.17.5",
     "prismjs": "^1.15.0",
     "typeface-arimo": "^0.0.54",
-    "typeface-karla": "^0.0.54",
-    "typeface-molengo": "^0.0.54",
-    "typeface-padauk": "^0.0.54",
     "typeface-vt323": "^0.0.54"
   },
   "devDependencies": {
