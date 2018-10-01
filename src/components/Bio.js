@@ -17,7 +17,7 @@ class Bio extends React.Component {
         }}
       >
         <img
-          src="https://gravatar.com/userimage/16158166/c92946e36a5158cc0365e0c3538a6163.png?size=200"
+          src="https://gravatar.com/userimage/16158166/a84caacef906420ec79446ced8e616a5.jpg?size=200"
           alt={`Leah`}
           style={{
             marginRight: '20px',
