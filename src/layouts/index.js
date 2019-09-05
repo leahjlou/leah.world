@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import './index.css'
-import 'prismjs/themes/prism-tomorrow.css'
+import 'prismjs/themes/prism.css'
 
 class Template extends React.Component {
   render() {
